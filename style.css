@@ -129,7 +129,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 1080px){
     .container-fluid{
-        background-image: url(images/background.png);
+        background-image: url(Images/background.png);
         background-position: center;
     }
     .content{
